@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shorten2Ping 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-03 19:59+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Riccardo Vianello <etms51@gmail.com>\n"
+"Language-Team: etms51 <smpo@libero.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: shorten2ping.php:79
+msgid "Short URL"
+msgstr "URL breve"
+
+#: shorten2ping.php:292
+msgid "Settings saved."
+msgstr "Impostazioni salvati."
+
+#: shorten2ping.php:303
+msgid "Shorten2Ping Options"
+msgstr "Opzioni Shorten2Ping"
+
+#: shorten2ping.php:305
+msgid "Shorten2Ping allows you to update status at Ping.fm or Twitter (only) whenever a new blog entry is published.  To start using it, simply enter the required information below, and press update information button. You only need to fill data for the services you want to use (i.e. if you want to use Ping.fm and not Twitter, you dont need to fill Twitter information)."
+msgstr "Shorten2Pings permette ad aggiornare lo status a Ping.fm o Twitter (solo) quando una nuova voce del blog è pubblicato. Per iniziare ad utilizzarlo, semplicemente inserire prima le informazioni richieste e premere il pulsante informazioni aggiornamento. 	Hai solo bisogno di riempire i dati per i servizi che si desidera utilizzare (per esempio se si desidera utilizzare Ping.fm e non Twitter, voi non occorre compilare le informazioni Twitter)."
+
+#: shorten2ping.php:307
+msgid "You can also customize the message for the status notification by using the \"message\" field below.  You can use [title] to represent the title of the blog entry, and [link] to represent the permalink."
+msgstr "E' possibile inoltre personalizzare il messaggio per lo stato di notifica utilizzando prima il campo \"messaggio\". E' possibile usare [title] per rappresentare il titolo della voce del blog, e [link] per rappresentare il permalink."
+
+#: shorten2ping.php:310
+msgid "Status Message"
+msgstr "Stato del messaggio"
+
+#: shorten2ping.php:312
+msgid "Max. 200 characters for Ping.fm (including real title and shortened url), 140 if you wish to send it to Twitter."
+msgstr "Max. 200 caratteri per Ping.fm (includendo il titolo reale e url breve), 140 se si vuole inviarlo a Twitter."
+
+#: shorten2ping.php:315
+msgid "Send Notification To:"
+msgstr "Invia notifica a:"
+
+#: shorten2ping.php:317
+msgid "Ping.fm"
+msgstr "Ping.fm"
+
+#: shorten2ping.php:318
+msgid "Twitter"
+msgstr "Twitter"
+
+#: shorten2ping.php:319
+msgid "Both"
+msgstr "Entrambi"
+
+#: shorten2ping.php:320
+#: shorten2ping.php:340
+msgid "None"
+msgstr "Nessuno"
+
+#: shorten2ping.php:322
+msgid "Choose to send notification to Ping.fm (default), Twitter, both services, or turn off this feature."
+msgstr "Scegli di inviare una notifica a Ping.fm (default), Twitter, sia entrambi i servizi, o disattivare questa funzionalità."
+
+#: shorten2ping.php:324
+msgid "Ping.fm API Key"
+msgstr "Key API Ping.fm"
+
+#: shorten2ping.php:325
+msgid "Put your Ping.fm <a href=\"http://ping.fm/key/\">API key</a> here."
+msgstr "Inserisc qui il tuo Ping.fm <a href=\"http://ping.fm/key/\">API key</a>."
+
+#: shorten2ping.php:327
+msgid "Twitter User Data"
+msgstr "Dati utente Twitter"
+
+#: shorten2ping.php:327
+#: shorten2ping.php:350
+#: shorten2ping.php:355
+msgid "Username"
+msgstr "Nome Utente"
+
+#: shorten2ping.php:328
+#: shorten2ping.php:351
+#: shorten2ping.php:356
+msgid "Password"
+msgstr "Password"
+
+#: shorten2ping.php:329
+msgid "Unfortunately <a href=\"http://twitter.com\">Twitter</a> doesn't have API keys for users, so you must put here your user login and password if you want to use this service."
+msgstr "Sfortunatamente, <a href=\"http://twitter.com\">Twitter</a>non ha le API key per gli utenti, così devi inserire qui il tuo nickname e la password per accedere, se si vuole utilizzare questo servizio."
+
+#: shorten2ping.php:333
+msgid "Shorten Permalinks With:"
+msgstr "Abbreviazione Permalink con:"
+
+#: shorten2ping.php:335
+msgid "Bit.ly"
+msgstr "Bit.ly"
+
+#: shorten2ping.php:336
+msgid "Tr.im"
+msgstr "Tr.im"
+
+#: shorten2ping.php:337
+msgid "YOURLS"
+msgstr "YOURLS"
+
+#: shorten2ping.php:338
+msgid "Su.pr"
+msgstr "Su.pr"
+
+#: shorten2ping.php:339
+msgid "Self domain"
+msgstr "Mio dominio"
+
+#: shorten2ping.php:342
+msgid "Choose to make short URLs using Bit.ly (default), Tr.im, or turn off this feature."
+msgstr "Scegliere di rendere gli URL brevi utilizzando Bit.ly (default), Tr.im o disattivare questa funzione."
+
+#: shorten2ping.php:344
+msgid "Bit.ly Configuration"
+msgstr "Configurazione Bit.ly"
+
+#: shorten2ping.php:345
+#: shorten2ping.php:363
+msgid "API Login"
+msgstr "API Login"
+
+#: shorten2ping.php:346
+#: shorten2ping.php:364
+msgid "API Key"
+msgstr "API Key"
+
+#: shorten2ping.php:347
+msgid "Put here your API login and <a href=\"http://bit.ly/account/\">Bit.ly</a> API key."
+msgstr "Inserrire qua le API del login e  le API key di <a href=\"http://bit.ly/account/\">Bit.ly</a>."
+
+#: shorten2ping.php:350
+msgid "Tr.im Configuration"
+msgstr "Configurazione Tr.im"
+
+#: shorten2ping.php:352
+msgid "Unfortunately <a href=\"http://tr.im\">Tr.im</a> doesn't have API keys for users, so you must put here your user login and password if you want to use this service."
+msgstr "Sfortunatamente <a href=\"http://tr.im\">Tr.im</a> non è possibile avere le API key per gli utenti, così devi immettere qui il suo login utente e la password se vuole realmente utilizzare questo servizio."
+
+#: shorten2ping.php:355
+msgid "YOURLS Configuration"
+msgstr "Configurazione YOURLS"
+
+#: shorten2ping.php:358
+msgid "YOURLS API URL"
+msgstr "YOURLS API URL"
+
+#: shorten2ping.php:359
+msgid "Example: http://test.com/yourls-api.php"
+msgstr "Esempio: http://test.com/yourls-api.php"
+
+#: shorten2ping.php:362
+msgid "Su.pr Configuration"
+msgstr "Configurazione Su.pr"
+
+#: shorten2ping.php:365
+msgid "Put here your API login and <a href=\"http://su.pr/settings/\">Su.pr</a> API key."
+msgstr "Inserire qui le sue API login e le API Key <a href=\"http://su.pr/settings/\">Su.pr</a>"
+
+#: shorten2ping.php:369
+msgid "Update Information"
+msgstr "Informazioni dell'aggiornamento"
+

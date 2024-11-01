@@ -1,0 +1,23 @@
+/* CSS for tabs options page */
+
+#tabs ul {
+	white-space: nowrap;
+	margin-top: 0.6em;
+}
+#tabs li {
+	display: inline;
+	list-style-type: none;
+}
+#tabs li a {
+	text-decoration: none;
+	font-size: 11px;
+	padding-right: 0.2em;
+	padding-left: 0.2em;
+}
+#tabs li.ui-tabs-selected a {
+	font-weight: bold;
+	color: #000000;
+}
+td>select {
+	width: 125px;
+}
